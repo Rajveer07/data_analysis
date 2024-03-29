@@ -1,0 +1,4 @@
+1,5 Star,5,100
+2,Milky bar,5,100
+3,Peark,5,400
+4,pulse,1,200
